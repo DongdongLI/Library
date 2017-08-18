@@ -14,7 +14,8 @@
     "express-handlebars": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-nodemon": "^2.2.1",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "wiredep": "^4.0.0"
   },
   "devDependencies": {
     "gulp-inject": "^4.2.0"
